@@ -10,7 +10,7 @@ A machine learning project to classify individuals as introverts or extroverts b
 
 ## Tools:
 
-- Python (Google Colab)
+- Python 
 - Pandas, NumPy
 - scikit-learn
 - Seaborn, Matplotlib
